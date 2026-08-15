@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T03:47:35Z",
+            "last_commit": "2026-08-15T03:18:07Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167118
+            "stars": 167172
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61538
+            "stars": 61569
           }
         }
       ],
@@ -76,7 +76,7 @@
             "last_commit": "2026-07-19T08:13:04Z",
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4179
+            "stars": 4180
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2024-08-14T17:49:27Z",
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13052
+            "stars": 13051
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2024-08-13T16:34:44Z",
             "owner": "interstellard",
             "repo": "chatgpt-advanced",
-            "stars": 6447
+            "stars": 6445
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54432
+            "stars": 54440
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2025-10-23T08:27:49Z",
             "owner": "AutumnWhj",
             "repo": "ChatGPT-wechat-bot",
-            "stars": 4710
+            "stars": 4711
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2023-04-10T07:55:38Z",
             "owner": "m1guelpf",
             "repo": "chatgpt-telegram",
-            "stars": 3886
+            "stars": 3887
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2025-03-06T15:08:10Z",
             "owner": "simplysabir",
             "repo": "AI-Writing-Assistant",
-            "stars": 162
+            "stars": 163
           }
         }
       ],
@@ -464,7 +464,7 @@
             "last_commit": "2024-12-20T22:03:43Z",
             "owner": "shobrook",
             "repo": "wut",
-            "stars": 1426
+            "stars": 1427
           }
         },
         {
@@ -553,7 +553,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:01:36.786Z",
+    "last_updated": "2026-08-15T15:31:04.877Z",
     "original_repository": "DeepTecher/awesome-ChatGPT-resource-zh",
     "original_repository_sha": "f8aaf1dd323683f09935b3a00c1eb8e472d5d08f",
     "enhanced_repository": "enhansome/enhansome-ChatGPT-resource-zh",
