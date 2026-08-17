@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-16T03:22:07Z",
+            "last_commit": "2026-08-17T03:22:38Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167259
+            "stars": 167299
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61610
+            "stars": 61641
           }
         }
       ],
@@ -48,7 +48,7 @@
             "last_commit": "2023-08-02T06:02:10Z",
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27901
+            "stars": 27904
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-07-19T08:13:04Z",
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4181
+            "stars": 4182
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54450
+            "stars": 54445
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2023-10-23T09:53:08Z",
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6264
+            "stars": 6265
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2024-04-26T17:22:52Z",
             "owner": "danielgross",
             "repo": "whatsapp-gpt",
-            "stars": 3059
+            "stars": 3058
           }
         },
         {
@@ -553,7 +553,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:31:11.645Z",
+    "last_updated": "2026-08-17T15:34:48.489Z",
     "original_repository": "DeepTecher/awesome-ChatGPT-resource-zh",
     "original_repository_sha": "f8aaf1dd323683f09935b3a00c1eb8e472d5d08f",
     "enhanced_repository": "enhansome/enhansome-ChatGPT-resource-zh",
