@@ -12,10 +12,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-22T03:19:18Z",
+            "last_commit": "2026-08-23T03:23:38Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167742
+            "stars": 167803
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61737
+            "stars": 61763
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2023-08-02T06:02:10Z",
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27900
+            "stars": 27901
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2024-08-14T17:49:27Z",
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13050
+            "stars": 13049
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2024-08-13T16:34:44Z",
             "owner": "interstellard",
             "repo": "chatgpt-advanced",
-            "stars": 6445
+            "stars": 6444
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54454
+            "stars": 54455
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2024-05-20T09:44:41Z",
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
-            "stars": 13237
+            "stars": 13236
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2023-04-10T07:55:38Z",
             "owner": "m1guelpf",
             "repo": "chatgpt-telegram",
-            "stars": 3886
+            "stars": 3885
           }
         },
         {
@@ -591,7 +591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:30:59.307Z",
+    "last_updated": "2026-08-23T15:32:19.280Z",
     "original_repository": "DeepTecher/awesome-ChatGPT-resource-zh",
     "original_repository_id": 599570867,
     "original_repository_sha": "f8aaf1dd323683f09935b3a00c1eb8e472d5d08f",
