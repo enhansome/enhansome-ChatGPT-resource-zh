@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T03:21:48Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167871
+            "stars": 167889
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61794
+            "stars": 61806
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40982
+            "stars": 40981
           }
         }
       ],
@@ -93,7 +93,7 @@
             "last_commit": "2024-07-17T09:43:05Z",
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30245
+            "stars": 30244
           }
         }
       ],
@@ -114,7 +114,7 @@
             "last_commit": "2023-06-30T18:36:16Z",
             "owner": "databrickslabs",
             "repo": "dolly",
-            "stars": 10805
+            "stars": 10804
           }
         }
       ],
@@ -135,7 +135,7 @@
             "last_commit": "2023-08-02T06:02:10Z",
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27902
+            "stars": 27903
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2025-10-23T08:27:49Z",
             "owner": "AutumnWhj",
             "repo": "ChatGPT-wechat-bot",
-            "stars": 4711
+            "stars": 4712
           }
         },
         {
@@ -647,7 +647,7 @@
                 "last_commit": "2025-10-15T20:35:53Z",
                 "owner": "humanloop",
                 "repo": "awesome-chatgpt",
-                "stars": 8207
+                "stars": 8205
               }
             },
             {
@@ -662,7 +662,7 @@
                 "last_commit": "2025-06-04T23:58:00Z",
                 "owner": "dalinvip",
                 "repo": "Awesome-ChatGPT",
-                "stars": 4190
+                "stars": 4189
               }
             }
           ],
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:20.256Z",
+    "last_updated": "2026-08-25T15:54:33.179Z",
     "original_repository": "DeepTecher/awesome-ChatGPT-resource-zh",
     "original_repository_id": 599570867,
     "original_repository_sha": "f8aaf1dd323683f09935b3a00c1eb8e472d5d08f",
