@@ -12,10 +12,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-25T03:21:48Z",
+            "last_commit": "2026-08-26T03:25:26Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167889
+            "stars": 167941
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61806
+            "stars": 61830
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40981
+            "stars": 40983
           }
         }
       ],
@@ -93,7 +93,7 @@
             "last_commit": "2024-07-17T09:43:05Z",
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30244
+            "stars": 30245
           }
         }
       ],
@@ -135,7 +135,7 @@
             "last_commit": "2023-08-02T06:02:10Z",
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27903
+            "stars": 27902
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-02-11T04:50:03Z",
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18115
+            "stars": 18116
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54456
+            "stars": 54459
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2025-10-23T08:27:49Z",
             "owner": "AutumnWhj",
             "repo": "ChatGPT-wechat-bot",
-            "stars": 4712
+            "stars": 4713
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2023-03-12T20:57:51Z",
             "owner": "hallatore",
             "repo": "stable-diffusion-webui-chatgpt-utilities",
-            "stars": 470
+            "stars": 471
           }
         },
         {
@@ -647,7 +647,7 @@
                 "last_commit": "2025-10-15T20:35:53Z",
                 "owner": "humanloop",
                 "repo": "awesome-chatgpt",
-                "stars": 8205
+                "stars": 8204
               }
             },
             {
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:54:33.179Z",
+    "last_updated": "2026-08-26T16:32:19.909Z",
     "original_repository": "DeepTecher/awesome-ChatGPT-resource-zh",
     "original_repository_id": 599570867,
     "original_repository_sha": "f8aaf1dd323683f09935b3a00c1eb8e472d5d08f",
