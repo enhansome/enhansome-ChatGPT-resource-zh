@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T10:04:29Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168048
+            "stars": 168085
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61849
+            "stars": 61856
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40982
+            "stars": 40984
           }
         }
       ],
@@ -135,7 +135,7 @@
             "last_commit": "2023-08-02T06:02:10Z",
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27902
+            "stars": 27901
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54456
+            "stars": 54459
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2023-09-22T13:20:40Z",
             "owner": "franalgaba",
             "repo": "chatgpt-telegram-bot-serverless",
-            "stars": 322
+            "stars": 321
           }
         },
         {
@@ -675,7 +675,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:56.316Z",
+    "last_updated": "2026-08-28T00:21:59.363Z",
     "original_repository_info": {
       "archived": false,
       "id": 599570867,
