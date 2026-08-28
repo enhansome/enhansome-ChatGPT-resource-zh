@@ -12,11 +12,12 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-27T10:04:29Z",
+            "last_commit": "2026-08-28T05:47:17Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168085
-          }
+            "stars": 168122
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-04-28T10:52:14Z",
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61856
-          }
+            "stars": 61877
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         }
       ],
       "title": "提示样例 （更好地让ChatGPT 回答出）"
@@ -51,8 +53,9 @@
             "last_commit": "2024-06-27T04:05:25Z",
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40984
-          }
+            "stars": 40983
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         }
       ],
       "title": "其他厂商推出 or 计划竞品"
@@ -73,7 +76,8 @@
             "owner": "acheong08",
             "repo": "EdgeGPT",
             "stars": 7850
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         }
       ],
       "title": "更多介绍"
@@ -93,8 +97,9 @@
             "last_commit": "2024-07-17T09:43:05Z",
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30247
-          }
+            "stars": 30246
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         }
       ],
       "title": "更多介绍"
@@ -115,7 +120,8 @@
             "owner": "databrickslabs",
             "repo": "dolly",
             "stars": 10805
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         }
       ],
       "title": "更多介绍"
@@ -136,7 +142,8 @@
             "owner": "acheong08",
             "repo": "ChatGPT",
             "stars": 27901
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -150,8 +157,9 @@
             "last_commit": "2026-02-11T04:50:03Z",
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18119
-          }
+            "stars": 18118
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -165,8 +173,9 @@
             "last_commit": "2026-07-19T08:13:04Z",
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4183
-          }
+            "stars": 4184
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -181,7 +190,8 @@
             "owner": "MisterJimson",
             "repo": "chatgpt_api_dart",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         }
       ],
       "title": "API 工具"
@@ -201,8 +211,9 @@
             "last_commit": "2024-08-14T17:49:27Z",
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13050
-          }
+            "stars": 13051
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -217,7 +228,8 @@
             "owner": "interstellard",
             "repo": "chatgpt-advanced",
             "stars": 6444
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -232,7 +244,8 @@
             "owner": "liady",
             "repo": "ChatGPT-pdf",
             "stars": 1480
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -247,7 +260,8 @@
             "owner": "kazuki-sf",
             "repo": "ChatGPT_Extension",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -262,7 +276,8 @@
             "owner": "idosal",
             "repo": "assistant-chat-gpt",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         }
       ],
       "title": "Chrome 浏览器插件"
@@ -282,8 +297,9 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54459
-          }
+            "stars": 54462
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -298,7 +314,8 @@
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
             "stars": 13237
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -313,7 +330,8 @@
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
             "stars": 6261
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -328,7 +346,8 @@
             "owner": "mpociot",
             "repo": "chatgpt-vscode",
             "stars": 4925
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -343,7 +362,8 @@
             "owner": "AutumnWhj",
             "repo": "ChatGPT-wechat-bot",
             "stars": 4712
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -358,7 +378,8 @@
             "owner": "m1guelpf",
             "repo": "chatgpt-telegram",
             "stars": 3886
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -373,7 +394,8 @@
             "owner": "danielgross",
             "repo": "whatsapp-gpt",
             "stars": 3059
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -388,7 +410,8 @@
             "owner": "sonnylazuardi",
             "repo": "chat-ai-desktop",
             "stars": 1997
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -403,7 +426,8 @@
             "owner": "transitive-bullshit",
             "repo": "chatgpt-twitter-bot",
             "stars": 757
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -418,7 +442,8 @@
             "owner": "cesarhuret",
             "repo": "docGPT",
             "stars": 671
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -432,8 +457,9 @@
             "last_commit": "2024-05-02T12:06:50Z",
             "owner": "abielzulio",
             "repo": "chatgpt-raycast",
-            "stars": 613
-          }
+            "stars": 614
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -448,7 +474,8 @@
             "owner": "pedrorito",
             "repo": "ChatGPTSlackBot",
             "stars": 383
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -463,7 +490,8 @@
             "owner": "franalgaba",
             "repo": "chatgpt-telegram-bot-serverless",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -478,7 +506,8 @@
             "owner": "m1guelpf",
             "repo": "chatgpt-discord",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -493,7 +522,8 @@
             "owner": "LiLittleCat",
             "repo": "intellij-chatgpt",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         }
       ],
       "title": "其他平台 ChatGPT 使用"
@@ -514,7 +544,8 @@
             "owner": "shobrook",
             "repo": "adrenaline",
             "stars": 3742
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -529,7 +560,8 @@
             "owner": "hallatore",
             "repo": "stable-diffusion-webui-chatgpt-utilities",
             "stars": 471
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -544,7 +576,8 @@
             "owner": "trzy",
             "repo": "ChatARKit",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -559,7 +592,8 @@
             "owner": "simplysabir",
             "repo": "AI-Writing-Assistant",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         }
       ],
       "title": "应用"
@@ -579,8 +613,9 @@
             "last_commit": "2024-12-20T22:03:43Z",
             "owner": "shobrook",
             "repo": "wut",
-            "stars": 1424
-          }
+            "stars": 1423
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -595,7 +630,8 @@
             "owner": "platelminto",
             "repo": "chatgpt-conversation",
             "stars": 653
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -610,7 +646,8 @@
             "owner": "diciaup",
             "repo": "assistant-cli",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         },
         {
           "node_type": "item",
@@ -625,7 +662,8 @@
             "owner": "nicolaballotta",
             "repo": "gpt3-wordpress-post-generator",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T23:59:45.273Z"
         }
       ],
       "title": "命令行工具"
@@ -648,7 +686,8 @@
                 "owner": "humanloop",
                 "repo": "awesome-chatgpt",
                 "stars": 8204
-              }
+              },
+              "first_seen": "2026-08-28T23:59:45.273Z"
             },
             {
               "node_type": "item",
@@ -663,7 +702,8 @@
                 "owner": "dalinvip",
                 "repo": "Awesome-ChatGPT",
                 "stars": 4189
-              }
+              },
+              "first_seen": "2026-08-28T23:59:45.273Z"
             }
           ],
           "description": null,
@@ -675,7 +715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:21:59.363Z",
+    "last_updated": "2026-08-28T23:59:45.273Z",
     "original_repository_info": {
       "archived": false,
       "id": 599570867,
