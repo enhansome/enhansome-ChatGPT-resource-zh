@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-08-29T03:15:57Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168128,
+            "stars": 168169,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -59,7 +59,7 @@
             "open_issues": 45,
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61879,
+            "stars": 61890,
             "topics": [
               "chat-gpt",
               "chatgpt",
@@ -217,7 +217,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27901,
+            "stars": 27902,
             "topics": [
               "chatgpt",
               "cli",
@@ -452,7 +452,7 @@
             "open_issues": 942,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54462,
+            "stars": 54464,
             "topics": [
               "ai",
               "app",
@@ -732,7 +732,7 @@
             "open_issues": 2,
             "owner": "pedrorito",
             "repo": "ChatGPTSlackBot",
-            "stars": 383,
+            "stars": 384,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -963,7 +963,7 @@
             "open_issues": 8,
             "owner": "platelminto",
             "repo": "chatgpt-conversation",
-            "stars": 653,
+            "stars": 654,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:01.491Z",
+    "last_updated": "2026-08-29T18:22:15.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work",
