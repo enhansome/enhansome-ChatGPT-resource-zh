@@ -62,8 +62,8 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ### 提示样例 （更好地让ChatGPT 回答出）
 
-* [英文版的ChatGPT调教指南](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,122 | 🐛 69 | 🌐 HTML | 📅 2026-08-28  :star::star::star::star::star:
-* [中文版的ChatGPT调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,877 | 🐛 45 | 📅 2026-04-28
+* [英文版的ChatGPT调教指南](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,128 | 🐛 69 | 🌐 HTML | 📅 2026-08-29  :star::star::star::star::star:
+* [中文版的ChatGPT调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 61,879 | 🐛 45 | 📅 2026-04-28
 
 ### 大佬与大模型
 
@@ -355,7 +355,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 ### 其他平台 ChatGPT 使用
 
 * [ 多平台(Windows, Mac, Linux)应用](https://github.com/lencx/ChatGPT) ⭐ 54,462 | 🐛 942 | 🌐 Rust | 📅 2024-08-29  :star::star::star::star::star:ChatGPT & Tauri
-* [【微信】 迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,237 | 🐛 53 | 🌐 TypeScript | 📅 2024-05-20
+* [【微信】 迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,236 | 🐛 53 | 🌐 TypeScript | 📅 2024-05-20
 * [ Mac平台 菜单应用](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived
 * [【VSCode】插件](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,925 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
 * [【微信】 bot ](https://github.com/AutumnWhj/ChatGPT-wechat-bot) ⭐ 4,712 | 🐛 105 | 🌐 TypeScript | 📅 2025-10-23
@@ -405,4 +405,4 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
