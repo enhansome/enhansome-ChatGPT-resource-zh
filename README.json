@@ -15,11 +15,11 @@
             "id": 574523116,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T03:15:57Z",
+            "last_commit": "2026-08-30T03:17:35Z",
             "open_issues": 70,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168169,
+            "stars": 168211,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -59,7 +59,7 @@
             "open_issues": 45,
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61890,
+            "stars": 61914,
             "topics": [
               "chat-gpt",
               "chatgpt",
@@ -92,7 +92,7 @@
             "open_issues": 605,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40983,
+            "stars": 40982,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -217,7 +217,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27902,
+            "stars": 27901,
             "topics": [
               "chatgpt",
               "cli",
@@ -246,7 +246,7 @@
             "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18118,
+            "stars": 18116,
             "topics": [
               "agents",
               "ai",
@@ -324,7 +324,7 @@
             "open_issues": 106,
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13051,
+            "stars": 13050,
             "topics": [
               "browser-extension",
               "chatgpt",
@@ -452,7 +452,7 @@
             "open_issues": 942,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54464,
+            "stars": 54468,
             "topics": [
               "ai",
               "app",
@@ -489,7 +489,7 @@
             "open_issues": 53,
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
-            "stars": 13236,
+            "stars": 13235,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -538,7 +538,7 @@
             "open_issues": 52,
             "owner": "mpociot",
             "repo": "chatgpt-vscode",
-            "stars": 4925,
+            "stars": 4924,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -559,7 +559,7 @@
             "open_issues": 105,
             "owner": "AutumnWhj",
             "repo": "ChatGPT-wechat-bot",
-            "stars": 4712,
+            "stars": 4713,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -1037,10 +1037,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-10-15T20:35:53Z",
-                "open_issues": 139,
+                "open_issues": 141,
                 "owner": "humanloop",
                 "repo": "awesome-chatgpt",
-                "stars": 8204,
+                "stars": 8203,
                 "topics": [
                   "chatgpt",
                   "gpt-3",
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:22:15.036Z",
+    "last_updated": "2026-08-30T18:34:37.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work",
