@@ -15,11 +15,11 @@
             "id": 574523116,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T03:19:24Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-01T03:19:49Z",
+            "open_issues": 71,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168344,
+            "stars": 168416,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -59,7 +59,7 @@
             "open_issues": 45,
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 61945,
+            "stars": 61969,
             "topics": [
               "chat-gpt",
               "chatgpt",
@@ -92,7 +92,7 @@
             "open_issues": 605,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40982,
+            "stars": 40981,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -154,7 +154,7 @@
             "open_issues": 186,
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30246,
+            "stars": 30245,
             "topics": [
               "deep-learning",
               "instruction-following",
@@ -185,7 +185,7 @@
             "open_issues": 5,
             "owner": "databrickslabs",
             "repo": "dolly",
-            "stars": 10804,
+            "stars": 10803,
             "topics": [
               "chatbot",
               "databricks",
@@ -246,7 +246,7 @@
             "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18115,
+            "stars": 18116,
             "topics": [
               "agents",
               "ai",
@@ -452,7 +452,7 @@
             "open_issues": 943,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54469,
+            "stars": 54468,
             "topics": [
               "ai",
               "app",
@@ -690,7 +690,7 @@
             "open_issues": 7,
             "owner": "cesarhuret",
             "repo": "docGPT",
-            "stars": 671,
+            "stars": 670,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:46:50.827Z",
+    "last_updated": "2026-09-01T18:24:18.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work",
