@@ -41,7 +41,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 * [ChatGPT 博客](https://openai.com/blog/chatgpt/)
 * [ChatGPT 插件](https://openai.com/blog/chatgpt-plugins) `官方开放插件名单，使得ChatGPT具有更丰富、准确的结果`
 * 非官方实现
-  * **ColossalAI** [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT) ⭐ 41,444 | 🐛 511 | 🌐 Python | 📅 2026-09-28 :+1::+1::+1::+1::+1: [博客介绍](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
+  * **ColossalAI** [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT) ⭐ 41,445 | 🐛 514 | 🌐 Python | 📅 2026-09-29 :+1::+1::+1::+1::+1: [博客介绍](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt)
 
 ### ChatGPT 社区 / 讨论
 
@@ -62,8 +62,8 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ### 提示样例 （更好地让ChatGPT 回答出）
 
-* [英文版的ChatGPT调教指南](https://github.com/f/awesome-chatgpt-prompts) ⭐ 171,493 | 🐛 83 | 🌐 HTML | 📅 2026-09-09  :star::star::star::star::star:
-* [中文版的ChatGPT调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 62,799 | 🐛 45 | 📅 2026-04-28
+* [英文版的ChatGPT调教指南](https://github.com/f/awesome-chatgpt-prompts) ⭐ 171,602 | 🐛 83 | 🌐 HTML | 📅 2026-09-09  :star::star::star::star::star:
+* [中文版的ChatGPT调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) ⭐ 62,838 | 🐛 46 | 📅 2026-04-28
 
 ### 大佬与大模型
 
@@ -136,7 +136,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 <br>
 
-* 【官方】[GitHub 链接](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,231 | 🐛 186 | 🌐 Python | 📅 2024-07-17
+* 【官方】[GitHub 链接](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,233 | 🐛 186 | 🌐 Python | 📅 2024-07-17
 * 【官方】[官网](https://crfm.stanford.edu/2023/03/13/alpaca.html)
 * 【官方】[模型链接](https://crfm.stanford.edu/alpaca)
 * 【报道】[LeCun狂赞：600刀GPT-3.5平替！ 斯坦福70亿参数「羊驼」爆火，LLaMA杀疯了](https://mp.weixin.qq.com/s/ybVYZumZhk_yM_w0U1wXww)
@@ -228,7 +228,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 </details>
 
-**清华-THUDM | [\[GitHub\]ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,945 | 🐛 605 | 🌐 Python | 📅 2024-06-27** `单卡版推理模型开源，大模型内测启动, 效果还不错`  内测申请[这里](https://chatglm.cn/login), 博客介绍[这里](https://chatglm.cn/blog)
+**清华-THUDM | [\[GitHub\]ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) ⭐ 40,942 | 🐛 606 | 🌐 Python | 📅 2024-06-27** `单卡版推理模型开源，大模型内测启动, 效果还不错`  内测申请[这里](https://chatglm.cn/login), 博客介绍[这里](https://chatglm.cn/blog)
 
 <details>
 <summary>更多介绍</summary>
@@ -340,13 +340,13 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 * [【非官方】【Python】 acheong08/ChatGPT ](https://github.com/acheong08/ChatGPT) ⚠️ Archived
 * [【非官方】【JS/TS】 transitive-bullshit/chatgpt-api ](https://github.com/transitive-bullshit/chatgpt-api) ⚠️ Archived
-* [【非官方】【Python】 rawandahmad698/PyChatGPT ](https://github.com/rawandahmad698/PyChatGPT) ⭐ 4,185 | 🐛 36 | 🌐 Python | 📅 2026-07-19
+* [【非官方】【Python】 rawandahmad698/PyChatGPT ](https://github.com/rawandahmad698/PyChatGPT) ⭐ 4,188 | 🐛 36 | 🌐 Python | 📅 2026-07-19
 * [【非官方】【Dart】 MisterJimson/chatgpt\_api\_dart](https://github.com/MisterJimson/chatgpt_api_dart) ⭐ 56 | 🐛 0 | 🌐 C++ | 📅 2022-12-06
 
 ### Chrome 浏览器插件
 
-* [插件: 在 Google 搜索结果旁边显示 ChatGPT 响应](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,046 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14
-* [WebChatGPT - 加入web 搜索结果选项](https://github.com/qunash/chatgpt-advanced/) ⭐ 6,432 | 🐛 96 | 🌐 TypeScript | 📅 2024-08-13
+* [插件: 在 Google 搜索结果旁边显示 ChatGPT 响应](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,045 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14
+* [WebChatGPT - 加入web 搜索结果选项](https://github.com/qunash/chatgpt-advanced/) ⭐ 6,431 | 🐛 96 | 🌐 TypeScript | 📅 2024-08-13
 * [插件: 将你与ChatGPT对话保存为 PNG, PDF 或 可分享的链接](https://github.com/liady/ChatGPT-pdf) ⭐ 1,477 | 🐛 34 | 🌐 JavaScript | 📅 2023-04-12
 * [插件：在任何页面上以弹出窗口的形式访问 ChatGPT](https://github.com/kazuki-sf/ChatGPT_Extension) ⭐ 458 | 🐛 4 | 🌐 HTML | 📅 2023-06-02
 * [ChassistantGPT - 将chatGPT嵌入作为语音助手](https://github.com/idosal/assistant-chat-gpt) ⭐ 239 | 🐛 4 | 🌐 JavaScript | 📅 2023-04-04
@@ -354,11 +354,11 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ### 其他平台 ChatGPT 使用
 
-* [ 多平台(Windows, Mac, Linux)应用](https://github.com/lencx/ChatGPT) ⭐ 54,574 | 🐛 948 | 🌐 Rust | 📅 2024-08-29  :star::star::star::star::star:ChatGPT & Tauri
+* [ 多平台(Windows, Mac, Linux)应用](https://github.com/lencx/ChatGPT) ⭐ 54,578 | 🐛 950 | 🌐 Rust | 📅 2024-08-29  :star::star::star::star::star:ChatGPT & Tauri
 * [【微信】 迅速接入 ChatGPT，让它成为你最好的助手！](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,234 | 🐛 53 | 🌐 TypeScript | 📅 2024-05-20
 * [ Mac平台 菜单应用](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived
-* [【VSCode】插件](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,917 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
-* [【微信】 bot ](https://github.com/AutumnWhj/ChatGPT-wechat-bot) ⭐ 4,713 | 🐛 105 | 🌐 TypeScript | 📅 2025-10-23
+* [【VSCode】插件](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,916 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 ([demo](https://twitter.com/marcelpociot/status/1599180144551526400))
+* [【微信】 bot ](https://github.com/AutumnWhj/ChatGPT-wechat-bot) ⭐ 4,714 | 🐛 105 | 🌐 TypeScript | 📅 2025-10-23
 * [【Telegram】 bot - GO语言](https://github.com/m1guelpf/chatgpt-telegram) ⭐ 3,882 | 🐛 60 | 🌐 Go | 📅 2023-04-10
 * [【WhatsApp】 bot](https://github.com/danielgross/whatsapp-gpt) ⭐ 3,056 | 🐛 68 | 🌐 Go | 📅 2024-04-26
 * [【非官方】 Windows, Mac, Linux 桌面app](https://github.com/sonnylazuardi/chatgpt-desktop) ⭐ 1,998 | 🐛 39 | 🌐 Rust | 📅 2023-12-23
@@ -376,7 +376,7 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ### 应用
 
-* [修复代码错误并解释错误](https://github.com/shobrook/adrenaline/) ⭐ 3,741 | 🐛 0 | 📅 2024-03-08
+* [修复代码错误并解释错误](https://github.com/shobrook/adrenaline/) ⭐ 3,742 | 🐛 0 | 📅 2024-03-08
 * [将chatGPT prompt 作用 stable diffusion](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities) ⭐ 467 | 🐛 10 | 🌐 Python | 📅 2023-03-12
 * [ChatARKit: 使用 ChatGPT 的 自然语言生成能力创建 AR 体验](https://github.com/trzy/ChatARKit) ⭐ 442 | 🐛 1 | 🌐 C | 📅 2023-03-31
 * [DeepWrite AI：博客发布生成器](https://github.com/simplysabir/AI-Writing-Assistant) ⭐ 166 | 🐛 1 | 🌐 CSS | 📅 2025-03-06
@@ -405,4 +405,4 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
