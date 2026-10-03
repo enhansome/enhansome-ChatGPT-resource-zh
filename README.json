@@ -19,7 +19,7 @@
             "open_issues": 84,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 171855,
+            "stars": 171879,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -46,7 +46,7 @@
         {
           "node_type": "item",
           "title": "中文版的ChatGPT调教指南",
-          "description": null,
+          "description": "PlexPt/awesome-chatgpt-prompts-zh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -59,7 +59,7 @@
             "open_issues": 47,
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 62892,
+            "stars": 62897,
             "topics": [
               "chat-gpt",
               "chatgpt",
@@ -77,6 +77,107 @@
       "description": "的爆火也使得各个厂商“加紧”推出自身竞争力的大模型能力，期望可以在后AI时代占据一定的市场。下面看看当前都有哪些厂商推出来了趴~\n谷歌 | Bard :broken_heart: Bard 内测申请\n微软 | [BingGPT or EdgeGPT(暂且这么称呼把)]\nOpenAI | GPT4 技术报告.pdf:+1::+1::+1::+1::+1:\n斯坦福 | Alpaca\nDatabricks | Dolly 😃\n百度 | 文心一言 | ERNIE Bot 当前文心一言支持 ， 当前开放内测两种方式： 个人测试申请点这里, 企业测试点这里\nIDEA-CCNL | 封神榜|MindBot-Lite API 对话指南参见这里\n阿里 | [阿里版ChatGPT] 2023.04.07 开启邀测\n商汤 | 商量SenseChat\n腾讯 | [XXXX]\n清华 | Cpm-Bee\n科大讯飞 | [XXX]\n复旦 | 类ChatGPT 拟3月底开源\n哈工大 | 相关研究报告\n| 海豚AI写作助手\n360 | [360版ChatGPT 雏形产品]",
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "API 调用方法",
+              "description": "acheong08/EdgeGPT",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Reverse engineered API of Microsoft's Bing Chat AI",
+                "homepage": null,
+                "id": 599662622,
+                "language": "Python",
+                "license": "Unlicense",
+                "last_commit": "2023-08-03T13:37:26Z",
+                "open_issues": 37,
+                "owner": "acheong08",
+                "repo": "EdgeGPT",
+                "stars": 7835,
+                "topics": [
+                  "bing-ai",
+                  "binggpt",
+                  "chatgpt",
+                  "edge",
+                  "edgegpt",
+                  "gpt",
+                  "reverse-engineering"
+                ]
+              },
+              "first_seen": "2026-08-28T23:59:45.273Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "更多介绍"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【官方】GitHub 链接",
+              "description": "tatsu-lab/stanford_alpaca",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+                "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
+                "id": 612427246,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-07-17T09:43:05Z",
+                "open_issues": 187,
+                "owner": "tatsu-lab",
+                "repo": "stanford_alpaca",
+                "stars": 30234,
+                "topics": [
+                  "deep-learning",
+                  "instruction-following",
+                  "language-model"
+                ]
+              },
+              "first_seen": "2026-08-28T23:59:45.273Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "更多介绍"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【官方】GitHub 链接",
+              "description": "databrickslabs/dolly",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+                "homepage": "https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html",
+                "id": 618511002,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2023-06-30T18:36:16Z",
+                "open_issues": 5,
+                "owner": "databrickslabs",
+                "repo": "dolly",
+                "stars": 10807,
+                "topics": [
+                  "chatbot",
+                  "databricks",
+                  "dolly",
+                  "gpt"
+                ]
+              },
+              "first_seen": "2026-08-28T23:59:45.273Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "更多介绍"
+        },
+        {
           "node_type": "item",
           "title": "清华-THUDM | [GitHub]ChatGLM-6B",
           "description": "内测申请这里, 博客介绍这里",
@@ -92,7 +193,7 @@
             "open_issues": 606,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40941,
+            "stars": 40940,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -105,106 +206,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "API 调用方法",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Reverse engineered API of Microsoft's Bing Chat AI",
-            "homepage": null,
-            "id": 599662622,
-            "language": "Python",
-            "license": "Unlicense",
-            "last_commit": "2023-08-03T13:37:26Z",
-            "open_issues": 37,
-            "owner": "acheong08",
-            "repo": "EdgeGPT",
-            "stars": 7835,
-            "topics": [
-              "bing-ai",
-              "binggpt",
-              "chatgpt",
-              "edge",
-              "edgegpt",
-              "gpt",
-              "reverse-engineering"
-            ]
-          },
-          "first_seen": "2026-08-28T23:59:45.273Z"
-        }
-      ],
-      "title": "更多介绍"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "【官方】GitHub 链接",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
-            "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
-            "id": 612427246,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2024-07-17T09:43:05Z",
-            "open_issues": 187,
-            "owner": "tatsu-lab",
-            "repo": "stanford_alpaca",
-            "stars": 30235,
-            "topics": [
-              "deep-learning",
-              "instruction-following",
-              "language-model"
-            ]
-          },
-          "first_seen": "2026-08-28T23:59:45.273Z"
-        }
-      ],
-      "title": "更多介绍"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "【官方】GitHub 链接",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
-            "homepage": "https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html",
-            "id": 618511002,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2023-06-30T18:36:16Z",
-            "open_issues": 5,
-            "owner": "databrickslabs",
-            "repo": "dolly",
-            "stars": 10807,
-            "topics": [
-              "chatbot",
-              "databricks",
-              "dolly",
-              "gpt"
-            ]
-          },
-          "first_seen": "2026-08-28T23:59:45.273Z"
-        }
-      ],
-      "title": "更多介绍"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "【非官方】【Python】 acheong08/ChatGPT",
-          "description": null,
+          "description": "acheong08/ChatGPT",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -217,7 +220,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27888,
+            "stars": 27889,
             "topics": [
               "chatgpt",
               "cli",
@@ -233,7 +236,7 @@
         {
           "node_type": "item",
           "title": "【非官方】【JS/TS】 transitive-bullshit/chatgpt-api",
-          "description": null,
+          "description": "transitive-bullshit/agentic",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -246,7 +249,7 @@
             "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18103,
+            "stars": 18102,
             "topics": [
               "agents",
               "ai",
@@ -259,7 +262,7 @@
         {
           "node_type": "item",
           "title": "【非官方】【Python】 rawandahmad698/PyChatGPT",
-          "description": null,
+          "description": "rawandahmad698/PyChatGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -284,7 +287,7 @@
         {
           "node_type": "item",
           "title": "【非官方】【Dart】 MisterJimson/chatgpt_api_dart",
-          "description": null,
+          "description": "MisterJimson/chatgpt_api_dart",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,7 +314,7 @@
         {
           "node_type": "item",
           "title": "插件: 在 Google 搜索结果旁边显示 ChatGPT 响应",
-          "description": null,
+          "description": "wong2/chatgpt-google-extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -337,7 +340,7 @@
         {
           "node_type": "item",
           "title": "WebChatGPT - 加入web 搜索结果选项",
-          "description": null,
+          "description": "interstellard/chatgpt-advanced",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,7 +368,7 @@
         {
           "node_type": "item",
           "title": "插件: 将你与ChatGPT对话保存为 PNG, PDF 或 可分享的链接",
-          "description": null,
+          "description": "liady/ChatGPT-pdf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,7 +389,7 @@
         {
           "node_type": "item",
           "title": "插件：在任何页面上以弹出窗口的形式访问 ChatGPT",
-          "description": null,
+          "description": "kazuki-sf/ChatGPT_Extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -412,7 +415,7 @@
         {
           "node_type": "item",
           "title": "ChassistantGPT - 将chatGPT嵌入作为语音助手",
-          "description": null,
+          "description": "idosal/assistant-chat-gpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -452,7 +455,7 @@
             "open_issues": 950,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54584,
+            "stars": 54585,
             "topics": [
               "ai",
               "app",
@@ -476,7 +479,7 @@
         {
           "node_type": "item",
           "title": "【微信】 迅速接入 ChatGPT，让它成为你最好的助手！",
-          "description": null,
+          "description": "fuergaosi233/wechat-chatgpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -489,7 +492,7 @@
             "open_issues": 53,
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
-            "stars": 13234,
+            "stars": 13235,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -497,7 +500,7 @@
         {
           "node_type": "item",
           "title": "Mac平台 菜单应用",
-          "description": null,
+          "description": "vincelwt/chatgpt-mac",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -510,7 +513,7 @@
             "open_issues": 93,
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6254,
+            "stars": 6253,
             "topics": [
               "chatgpt",
               "gpt-3",
@@ -525,7 +528,7 @@
         {
           "node_type": "item",
           "title": "【VSCode】插件",
-          "description": "(demo)",
+          "description": "mpociot/chatgpt-vscode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -546,7 +549,7 @@
         {
           "node_type": "item",
           "title": "【微信】 bot",
-          "description": null,
+          "description": "AutumnWhj/ChatGPT-wechat-bot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -567,7 +570,7 @@
         {
           "node_type": "item",
           "title": "【Telegram】 bot - GO语言",
-          "description": null,
+          "description": "m1guelpf/chatgpt-telegram",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -593,7 +596,7 @@
         {
           "node_type": "item",
           "title": "【WhatsApp】 bot",
-          "description": null,
+          "description": "danielgross/whatsapp-gpt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -614,7 +617,7 @@
         {
           "node_type": "item",
           "title": "【非官方】 Windows, Mac, Linux 桌面app",
-          "description": null,
+          "description": "sonnylazuardi/chat-ai-desktop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,7 +653,7 @@
         {
           "node_type": "item",
           "title": "【Twitter】 bot",
-          "description": null,
+          "description": "transitive-bullshit/chatgpt-twitter-bot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -677,7 +680,7 @@
         {
           "node_type": "item",
           "title": "Google 文档",
-          "description": null,
+          "description": "cesarhuret/docGPT",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -698,7 +701,7 @@
         {
           "node_type": "item",
           "title": "【RayCast】插件 (非官方)",
-          "description": null,
+          "description": "abielzulio/chatgpt-raycast",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -719,7 +722,7 @@
         {
           "node_type": "item",
           "title": "【Slack Bot】",
-          "description": null,
+          "description": "pedrorito/ChatGPTSlackBot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -740,7 +743,7 @@
         {
           "node_type": "item",
           "title": "【Telegram】 bot",
-          "description": null,
+          "description": "franalgaba/chatgpt-telegram-bot-serverless",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -766,7 +769,7 @@
         {
           "node_type": "item",
           "title": "【Discord Bot】",
-          "description": null,
+          "description": "m1guelpf/chatgpt-discord",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -787,7 +790,7 @@
         {
           "node_type": "item",
           "title": "【Jetbrains IDEs】插件",
-          "description": null,
+          "description": "LiLittleCat/intellij-chatgpt",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -819,7 +822,7 @@
         {
           "node_type": "item",
           "title": "修复代码错误并解释错误",
-          "description": null,
+          "description": "shobrook/adrenaline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -848,7 +851,7 @@
         {
           "node_type": "item",
           "title": "将chatGPT prompt 作用 stable diffusion",
-          "description": null,
+          "description": "hallatore/stable-diffusion-webui-chatgpt-utilities",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -872,7 +875,7 @@
         {
           "node_type": "item",
           "title": "ChatARKit: 使用 ChatGPT 的 自然语言生成能力创建 AR 体验",
-          "description": null,
+          "description": "trzy/ChatARKit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -893,7 +896,7 @@
         {
           "node_type": "item",
           "title": "DeepWrite AI：博客发布生成器",
-          "description": null,
+          "description": "simplysabir/AI-Writing-Assistant",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -929,7 +932,7 @@
         {
           "node_type": "item",
           "title": "用 ChatGPT解释你运行时的错误",
-          "description": null,
+          "description": "shobrook/wut",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -950,7 +953,7 @@
         {
           "node_type": "item",
           "title": "chatgpt-conversation: 用声音与 ChatGPT 对话，并让其回应",
-          "description": null,
+          "description": "platelminto/chatgpt-conversation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -971,7 +974,7 @@
         {
           "node_type": "item",
           "title": "命令行助手",
-          "description": null,
+          "description": "diciaup/assistant-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -998,7 +1001,7 @@
         {
           "node_type": "item",
           "title": "GPT3 WordPress 帖子生成器",
-          "description": null,
+          "description": "nicolaballotta/gpt3-wordpress-post-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1027,7 +1030,7 @@
             {
               "node_type": "item",
               "title": "humanloop/awesome-chatgpt",
-              "description": null,
+              "description": "humanloop/awesome-chatgpt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1037,7 +1040,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2025-10-15T20:35:53Z",
-                "open_issues": 150,
+                "open_issues": 151,
                 "owner": "humanloop",
                 "repo": "awesome-chatgpt",
                 "stars": 8204,
@@ -1053,7 +1056,7 @@
             {
               "node_type": "item",
               "title": "dalinvip/Awesome-ChatGPT",
-              "description": null,
+              "description": "dalinvip/Awesome-ChatGPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1066,7 +1069,7 @@
                 "open_issues": 5,
                 "owner": "dalinvip",
                 "repo": "Awesome-ChatGPT",
-                "stars": 4194,
+                "stars": 4195,
                 "topics": [
                   "ai",
                   "awesome",
@@ -1091,7 +1094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:53:26.086Z",
+    "last_updated": "2026-10-03T04:33:12.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work",
@@ -1103,7 +1106,7 @@
       "open_issues": 0,
       "owner": "DeepTecher",
       "repo": "awesome-ChatGPT-resource-zh",
-      "stars": 675,
+      "stars": 676,
       "topics": [
         "awesome-list",
         "chatbot",
