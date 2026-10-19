@@ -15,11 +15,11 @@
             "id": 574523116,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T03:17:54Z",
+            "last_commit": "2026-10-19T03:19:47Z",
             "open_issues": 90,
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 173341,
+            "stars": 173571,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -59,7 +59,7 @@
             "open_issues": 47,
             "owner": "PlexPt",
             "repo": "awesome-chatgpt-prompts-zh",
-            "stars": 63706,
+            "stars": 63771,
             "topics": [
               "chat-gpt",
               "chatgpt",
@@ -94,7 +94,7 @@
                 "open_issues": 37,
                 "owner": "acheong08",
                 "repo": "EdgeGPT",
-                "stars": 7829,
+                "stars": 7830,
                 "topics": [
                   "bing-ai",
                   "binggpt",
@@ -162,7 +162,7 @@
                 "open_issues": 5,
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10804,
+                "stars": 10803,
                 "topics": [
                   "chatbot",
                   "databricks",
@@ -193,7 +193,7 @@
             "open_issues": 610,
             "owner": "zai-org",
             "repo": "ChatGLM-6B",
-            "stars": 40912,
+            "stars": 40911,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -220,7 +220,7 @@
             "open_issues": 11,
             "owner": "acheong08",
             "repo": "ChatGPT",
-            "stars": 27936,
+            "stars": 27940,
             "topics": [
               "chatgpt",
               "cli",
@@ -249,7 +249,7 @@
             "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18088,
+            "stars": 18089,
             "topics": [
               "agents",
               "ai",
@@ -452,10 +452,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2024-08-29T17:58:11Z",
-            "open_issues": 951,
+            "open_issues": 950,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54629,
+            "stars": 54644,
             "topics": [
               "ai",
               "app",
@@ -492,7 +492,7 @@
             "open_issues": 53,
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
-            "stars": 13229,
+            "stars": 13228,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -513,7 +513,7 @@
             "open_issues": 93,
             "owner": "vincelwt",
             "repo": "chatgpt-mac",
-            "stars": 6249,
+            "stars": 6250,
             "topics": [
               "chatgpt",
               "gpt-3",
@@ -541,7 +541,7 @@
             "open_issues": 52,
             "owner": "mpociot",
             "repo": "chatgpt-vscode",
-            "stars": 4915,
+            "stars": 4916,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -609,7 +609,7 @@
             "open_issues": 68,
             "owner": "danielgross",
             "repo": "whatsapp-gpt",
-            "stars": 3058,
+            "stars": 3055,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:45.273Z"
@@ -835,7 +835,7 @@
             "open_issues": 0,
             "owner": "shobrook",
             "repo": "adrenaline",
-            "stars": 3735,
+            "stars": 3733,
             "topics": [
               "ai",
               "chatbot",
@@ -1094,7 +1094,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:01:12.385Z",
+    "last_updated": "2026-10-19T20:32:19.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work",
